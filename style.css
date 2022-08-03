@@ -1,0 +1,13 @@
+#title {
+    color: red;
+}
+
+.recipe-list {
+    background-color: #faa149;
+    font-size: 24px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
